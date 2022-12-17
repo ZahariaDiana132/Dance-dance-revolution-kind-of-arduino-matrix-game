@@ -8,10 +8,10 @@ I love dancing and when I was little I used to play anything even just a little 
 It hasn't been an easy ride, but it was challenging in an enjoying way!
 The game has 3 levels of difficulty and 4 different levels of speed that change depending on your score.
 I think I managed to make it both fun and captivating, while still making it be a bit of a challenge on the more difficult levels. I played it a lot while testing and I have to say it still takes me by surprise most of the time.
-There are parts of the game that are by far more challenging and so when u get them right I added a little gift (u get more points and one extra life if u really need it).
+There are parts of the game that are by far more challenging and so when you get them right I added a little gift (you get more points and one extra life if you really need it).
 Also if you start from a lower level and make your way to the top at every new level you get one more life (since you've been playing for quite a while).
-You get to set your name in the settings, change how blinded you want to get by the matrix( I just keep mine at a 2 ), reset the highscore, mute it if you get annoyed by the sounds and set what difficulty you want to start from( they remain saved so don't worry about having to enter them every time). You can see the highscore list, instructions on how to play, a little about with a link to this github repo, my name, and the title of the game.
-When starting the project you get greeted by a dancing little guy and a song (that if you want to replay you can do so at any time from the main menu on the restart button without having to actually restart the project.
+You get to set your name in the settings, change how blinded you want to get by the matrix (I just keep mine at a 2), reset the highscore, mute it if you get annoyed by the sounds and set what difficulty you want to start from (they remain saved so don't worry about having to enter them every time). You can see the highscore list, instructions on how to play, a little "about" with a link to this github repo, my name, and the title of the game.
+When starting the project you get greeted by a dancing little guy and a song (that if you want to replay you can do so at any time from the main menu on the restart button without having to actually restart the project).
 
 
 Components Used:
