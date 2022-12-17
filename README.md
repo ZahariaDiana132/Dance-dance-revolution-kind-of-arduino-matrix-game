@@ -1,5 +1,8 @@
 # Dance-dance-revolution-kind-of-arduino-matrix-game
 
+[Task requirements]()
+
+
 Components Used:
 
 1 LCD,
