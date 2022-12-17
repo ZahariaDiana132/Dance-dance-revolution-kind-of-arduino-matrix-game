@@ -7,7 +7,7 @@ Description of the project, the game I chose and why I chose it:
 I love dancing and when I was little I used to play anything even just a little related to it and my favorite game was from Club Penguin (their version of dance dance revlution) and so I decided to make my own version of the game.
 It hasn't been an easy ride, but it was challenging in an enjoying way!
 The game has 3 levels of difficulty and 4 different levels of speed that change depending on your score.
-I think I managed to make it both fun and captivating, while still making it be a bit of a challange on the more difficult levels. I played it a lot while testing and I have to say it still takes me by surprise most of the time.
+I think I managed to make it both fun and captivating, while still making it be a bit of a challenge on the more difficult levels. I played it a lot while testing and I have to say it still takes me by surprise most of the time.
 There are parts of the game that are by far more challenging and so when u get them right I added a little gift (u get more points and one extra life if u really need it).
 Also if you start from a lower level and make your way to the top at every new level you get one more life (since you've been playing for quite a while).
 You get to set your name in the settings, change how blinded you want to get by the matrix( I just keep mine at a 2 ), reset the highscore, mute it if you get annoyed by the sounds and set what difficulty you want to start from( they remain saved so don't worry about having to enter them every time). You can see the highscore list, instructions on how to play, a little about with a link to this github repo, my name, and the title of the game.
